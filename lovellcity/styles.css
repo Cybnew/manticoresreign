@@ -50,3 +50,9 @@ li {
 .closebtn:hover {
   color: black;
 }
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
