@@ -14,13 +14,12 @@ p {
   text-align: center;
 }
 .container {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   color: 	#0abdc6;
   font-family: arial;
   font-size: 24px;
-  margin: 25px;
-  width: 350px;
-  height: 200px
+  
 }
 li {
   color: 		#ea00d9;
