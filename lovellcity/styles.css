@@ -24,6 +24,7 @@ p {
 }
 li {
   color: 		#ea00d9;
+  text-align: center;
 }
 
 /* The alert message box */
