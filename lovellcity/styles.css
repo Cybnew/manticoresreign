@@ -61,3 +61,6 @@ a {
   color: 		#ea00d9;
   font-size: 20px;
 }
+ul {
+  list-style: none;
+}
