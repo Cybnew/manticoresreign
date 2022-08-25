@@ -3,7 +3,17 @@ body {
 }
 h1 {
   color: blue;
+  text-align: center;
 }
 p {
   color: red;
+  text-align: center;
 }
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px
+}
+
