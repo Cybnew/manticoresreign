@@ -5,16 +5,20 @@ h1 {
   color: #ea00d9;
   text-align: center;
 }
+h2 {
+  color: 	#0abdc6;
+  text-align: center;
+}
 p {
   color: #711c91;
   text-align: center;
 }
 .container {
+  margin: auto;
   font-family: arial;
   font-size: 24px;
   margin: 25px;
   width: 350px;
   height: 200px
-  text-align: center;
 }
 
