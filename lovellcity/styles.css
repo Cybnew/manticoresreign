@@ -1,12 +1,12 @@
 body {
-  background-color: powderblue;
+  background-color: #091833;
 }
 h1 {
-  color: blue;
+  color: #ea00d9;
   text-align: center;
 }
 p {
-  color: red;
+  color: #711c91;
   text-align: center;
 }
 .container {
@@ -15,5 +15,6 @@ p {
   margin: 25px;
   width: 350px;
   height: 200px
+  text-align: center;
 }
 
